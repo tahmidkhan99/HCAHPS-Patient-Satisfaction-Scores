@@ -1,4 +1,4 @@
-# HCAHPS Patient Satisfaction Scores
+# HCAHPS Patient Satisfaction Visualization
 HCAHPS = Hospital Consumer Assessment of Healthcare Providers and Systems
 
 It is a patient satisfaction survey that most hospitals are required to submit to The Center for Medicare and Medicaid Services (CMS). 
